@@ -1,0 +1,9 @@
+C:\workspace_sandbox\MetalGearPassGen\MetalGearPassGen\bin\Release\MetalGearPassGen.exe.config
+C:\workspace_sandbox\MetalGearPassGen\MetalGearPassGen\bin\Release\MetalGearPassGen.exe
+C:\workspace_sandbox\MetalGearPassGen\MetalGearPassGen\bin\Release\MetalGearPassGen.pdb
+C:\workspace_sandbox\MetalGearPassGen\MetalGearPassGen\obj\Release\MetalGearPassGen.FormMetalGearPassGen.resources
+C:\workspace_sandbox\MetalGearPassGen\MetalGearPassGen\obj\Release\MetalGearPassGen.Properties.Resources.resources
+C:\workspace_sandbox\MetalGearPassGen\MetalGearPassGen\obj\Release\MetalGearPassGen.csproj.GenerateResource.cache
+C:\workspace_sandbox\MetalGearPassGen\MetalGearPassGen\obj\Release\MetalGearPassGen.csproj.CoreCompileInputs.cache
+C:\workspace_sandbox\MetalGearPassGen\MetalGearPassGen\obj\Release\MetalGearPassGen.exe
+C:\workspace_sandbox\MetalGearPassGen\MetalGearPassGen\obj\Release\MetalGearPassGen.pdb
